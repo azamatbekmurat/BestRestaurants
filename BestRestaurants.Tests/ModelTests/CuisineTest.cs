@@ -7,9 +7,9 @@ namespace BestRestaurants.Tests
 {
 
    [TestClass]
-   public class RestaurantTests : IDisposable
+   public class CuisineTests : IDisposable
    {
-       public RestaurantTests()
+       public CuisineTests()
        {
            DBConfiguration.ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=azamat;";
        }
