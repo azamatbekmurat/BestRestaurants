@@ -42,6 +42,6 @@ namespace BestRestaurants
 
   public static class DBConfiguration
   {
-      public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=todo_test;";
+      public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=azamat;";
   }
 }
